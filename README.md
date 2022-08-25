@@ -24,7 +24,7 @@ Check out [API LIVE DEMO](https://hungercap-backend.herokuapp.com/) here!!
 1. Git Clone
 
 ```
-git clone 
+git clone https://github.com/donzefaceynex/HungerCaptain.git
 ```
 
 2. Backend setting
